@@ -4,8 +4,8 @@ wantLogscale=0;
 wantDisplay=0;
 
 % TEST dont used filterback calls
-LogScaleB = [];
-return;
+%LogScaleB = [];
+%return;
 
 % filterbank control parameters
 TWIN = 0.05; 
